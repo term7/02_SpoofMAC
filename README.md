@@ -26,6 +26,9 @@ To suggest improvements, please report an issue or send a pull request.
 
 To spoof your MAC address is especially recommended if you are working on a laptop using public Wifi in order to mitigate tracking methods that identify and track your devices MAC address.
 
+<p align="center">
+  <img src="/png/SpoofMac.png" title="SpoofMAC Installer">
+</p>
 
 ## PREREQUISITES & INSTALLATION
 
