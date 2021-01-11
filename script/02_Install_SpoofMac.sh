@@ -9,7 +9,7 @@
 #   This installation script is meant to be educational and a resource for learning for unexperienced users. It has a lot of functionality that may be considered unnecessary from an advanced user's perspective. I.e. it pauses at certain times during the installation and displays a countdown. It echoes all commands to the terminal window and at certain times during the installation it displays informative texts and asks for user input. From a coders perspective who knows exactly what he/she wants, this may be a waste of time - yet we have written this script with users in mind that are not used to the command line. We hope that by running this script, users will take the time to go through the installation process, in order to understand the mechanics behind this script.
 
 #   MIT License
-#   Copyright (c) 2011-2020
+#   Copyright (c) 2021
 
 #   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
