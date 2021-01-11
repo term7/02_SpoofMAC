@@ -29,11 +29,10 @@ To spoof your MAC address is especially recommended if you are working on a lapt
 
 ## PREREQUISITES & INSTALLATION
 
-We are using MacPorts, which is why this script will use the default MacPorts directory as an install location. You may have to install MacPorts before you attempt to install SoofMAC if you want to use this installation script.
-
-* [https://www.macports.org/install.php](https://www.macports.org/install.php)
+We are using MacPorts, which is why this script will use the default MacPorts directory as an install location. You may have to install [MacPorts](https://github.com/term7/01_MacPorts-Installer) before you attempt to install SoofMAC if you want to use this installation script.
     
-02_Install_SpoofMac.sh is a script that will set up SpoofMAC (by Feross Aboukhadijeh) for you. Simply execute the installation script in a terminal window, when prompted type your admin password and press ENTER. The script will run all necessary commands for you. It also sets up a Launch Daemon that automatically randomizes Wifi and Ethernet MAC addresses of your computer whenever you start it. You can review the whole installation process in your terminal window.
+[02_Install_SpoofMac.sh](https://github.com/term7/02-SpoofMAC/blob/main/script/02_Install_SpoofMac.sh)  is a script that will set up SpoofMAC (by Feross Aboukhadijeh) for you. Simply execute the installation script in a terminal window, when prompted type your admin password and press ENTER. The script will run all necessary commands for you. It also sets up a Launch Daemon that automatically randomizes Wifi and Ethernet MAC addresses of your computer whenever you start it. You can review the whole installation process in your terminal window.
+
 
 After the installation SpoofMAC will automatically run on your Mac whenever you start your computer. 
 
