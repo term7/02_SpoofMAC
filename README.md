@@ -1,6 +1,6 @@
 # SpoofMAC-Installer for OS X
 
-This installation script is targeted to users who wish to make informed decisions and who want to improve their privacy and security on a Mac. We want everybody to be able to able to do this installation, which is why this script is meant to be educative and a source of learning - even for users who have never used the command line (Terminal.app) before.
+This installation script is targeted to users who wish to make informed decisions and who want to improve their privacy and security on a Mac. We want everybody to be able to able to do this installation, which is why this script is meant to be educative and a source of learning - especially for users who have never used the command line (Terminal.app) before.
 
 SpoofMAC is a Python script written by feross:
 
