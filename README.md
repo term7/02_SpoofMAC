@@ -2,7 +2,7 @@
 https://github.com/term7/MacOS-Privacy-and-Security-Enhancements/tree/main/04_SpoofMAC
 
 
-## Recently many users of SpoofMac have complained that SpoofMac stopped working from the commandline. We can confirm that there is a small issue: With recent updates it is not possible anymore to change the MAC address of the wifi card without switching off wifi first!
+## Recently many users of SpoofMac have complained that SpoofMac stopped working from the commandline. We can confirm that there is a small issue: With recent updates it is not possible anymore to change the MAC address of the wifi card without switching off wifi first! We have prepared a newer guide to install SpoofMAC that makes use of npm instead of Python.
 
 
 # SpoofMAC-Installer for OS X
