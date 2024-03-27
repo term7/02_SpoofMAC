@@ -1,3 +1,6 @@
+## Recently many users of SpoofMac have complained that SpoofMac stopped working from the commandline. We can confirm that there is a small issue: With recent updates it is not possible anymore to change the MAC address of the wifi card without switching off wifi first!
+
+
 # SpoofMAC-Installer for OS X
 
 This installation script is targeted to users who wish to make informed decisions and who want to improve their privacy and security on a Mac. We want everybody to be able to able to do this installation, which is why this script is meant to be educative and a source of learning - especially for users who have never used the command line (Terminal.app) before.
